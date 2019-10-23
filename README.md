@@ -19,4 +19,4 @@
 
 ## 2019-10-08更新
 
-本项目停止更新，学习分享活动已迁移到知识星球社区「黄博的机器学习圈子」。
+本项目停止更新，学习分享活动已迁移至「[ML-Weekly-Study](https://github.com/Dikea/ML-SelfStudy-Weekly)」。
