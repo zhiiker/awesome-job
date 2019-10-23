@@ -1,22 +1,17 @@
-# ML 每周学习分享
+# ML 自学者周刊 
 
-这是一群在 ML 之路上进阶的小伙伴们的每周学习分享。
+本周刊在公众号「 **进击的龙** 」每周连载，欢迎关注。
 
-## 项目意义
+## 2019
 
-对于参与的伙伴，大家一起相互督促，在自学的路上走的更远；<br>
-对于吃瓜群众，能够看到同龄人的努力，了解到大家都在学什么。
+**十月**：[第 4 期](docs/doc_004.md) :high_brightness: | [第 3 期](docs/doc_003.md) | [第 2 期](docs/doc_002.md) | [第 1 期](docs/doc_001.md)
 
-## 一些问题
+## 组织者
 
-> 我们是谁 ？
+公子龙，自然语言处理算法工程师，经历较为丰富，学生时代在多次大型数据竞赛中斩获冠亚军，一年收入四十多万。毕业时拿过百度、腾讯、阿里、京东、美团、网易、拼多多、快手等一线互联网公司的 offer。[他的介绍](https://mp.weixin.qq.com/s/FBmYWfdh8Vi5NnVmt6M82Q)
 
-我们是一群自发学习者，每期学习为时三个月，每周都会分享学习心得，相互督促，一起前进。
+## 加入我们
 
-> 加入后如何打卡分享 ？
+扫描二维码，关注公众号，回复「 **自学** 」加入我们。
 
-加入后会被邀请成为项目贡献者。需要先了解 git 项目协作的基本使用，克隆本项目到本地，更新相应的每周打卡文档。
-
-## 2019-10-08更新
-
-本项目停止更新，学习分享活动已迁移至「[ML-Weekly-Study](https://github.com/Dikea/ML-SelfStudy-Weekly)」。
+<a href="url"><img src="https://mmbiz.qpic.cn/mmbiz_png/icmWrEONNM8XxPzBBx0ybWehZuibAh67P2y6YG0V6ZPmeTng5EetPCibiaSEneqoMeyIhbhaNSZ4IXA2v4XyyARicew/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" align="left" height="200" width="400" ></a>
