@@ -11,7 +11,7 @@
 
 ## 组织者
 
-- [黄海广博士](https://github.com/fengdu78)
+- [黄海广](https://github.com/fengdu78)
 - [公子龙](https://mp.weixin.qq.com/s/FBmYWfdh8Vi5NnVmt6M82Q)
 
 ## 加入我们
