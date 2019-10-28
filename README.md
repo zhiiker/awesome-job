@@ -4,7 +4,9 @@
 
 ## 2019
 
-**十月**：[第 4 期](docs/doc_004.md) :high_brightness: | [第 3 期](docs/doc_003.md) | [第 2 期](docs/doc_002.md) | [第 1 期](docs/doc_001.md)
+**11 月** [第 5 期](docs/doc_005.md)
+**10 月**：[第 4 期](docs/doc_004.md) | [第 3 期](docs/doc_003.md) | [第 2 期](docs/doc_002.md) | [第 1 期](docs/doc_001.md)
+
 
 ## 组织者
 
