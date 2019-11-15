@@ -16,6 +16,6 @@
 
 ## 加入我们
 
-扫描二维码，关注公众号，回复「 **自学** 」加入我们。
+扫描二维码，关注公众号，回复「 **github** 」加入我们。
 
 <a href="url"><img src="https://mmbiz.qpic.cn/mmbiz_png/icmWrEONNM8XxPzBBx0ybWehZuibAh67P2y6YG0V6ZPmeTng5EetPCibiaSEneqoMeyIhbhaNSZ4IXA2v4XyyARicew/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" align="left" height="200" width="400" ></a>
