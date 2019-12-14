@@ -1,8 +1,8 @@
-# Awesome NLP Questions
+# Awesome NLP Short Questions
 
 > 一个问题，一句回答，一张图片，简洁明了的呈现 NLP 世界的轮廓
 
-   * [Awesome NLP Questions](#awesome-nlp-questions)
+   * [Awesome NLP Short Questions](#awesome-nlp-short-questions)
       * [速问速答](#速问速答)
          * [基础知识](#基础知识)
             * [什么是自然语言处理](#什么是自然语言处理)
@@ -15,7 +15,6 @@
             * [有哪些好用的 NLP 工具包](#有哪些好用的-nlp-工具包)
       * [版权问题](#版权问题)
       * [参考文献](#参考文献)
-
 
 ## 速问速答
 
