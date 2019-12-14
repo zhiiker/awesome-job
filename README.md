@@ -1,5 +1,7 @@
 # Awesome NLP Short Questions
 
+<div align="center"><img src="images/gongzhonghao.png" height="145"></div>
+
 > 一个问题，一句回答，一张图片，简洁明了的呈现 NLP 世界的轮廓
 
    * [Awesome NLP Short Questions](#awesome-nlp-short-questions)
