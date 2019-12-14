@@ -103,9 +103,8 @@ NLP 工具包一般包含了常见的文本处理功能，例如文本分词、�
 - [如何科学的打开 Leetcode](https://mp.weixin.qq.com/s/VL0Buz0ya_LZ1AH32MJ82Q)
 - [2020 年的算法，降温之后会更好](https://mp.weixin.qq.com/s/a0aaopoQ7oqgrDG8wLnBOg) 
 
-扫码订阅公众号：
 
-<div align="center"><img src="images/gongzhonghao.png" height="160"></div>
+<div><img src="images/gongzhonghao.png" height="150"></div>
 
 
 ## 参考文献
