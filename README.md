@@ -1,7 +1,5 @@
 # Awesome NLP Short Questions
 
-<div align="center"><img src="images/gongzhonghao.png" height="145"></div>
-
 > 一个问题，一句回答，一张图片，简洁明了的呈现 NLP 世界的轮廓
 
    * [Awesome NLP Short Questions](#awesome-nlp-short-questions)
@@ -93,6 +91,19 @@ NLP 工具包一般包含了常见的文本处理功能，例如文本分词、�
 ## 版权问题
 
 未经授权，禁止转载，翻版必究。
+
+
+## 关于我
+
+中科院硕士生，NLP爱好者，研究生期间，通过实习、竞赛收入超过五十万，我的一些文章：
+
+- [读研，竞赛，与实习](https://mp.weixin.qq.com/s/7Uoz1L3SbXPRkCtJCYzVQg) 
+- [如何科学的打开 Leetcode](https://mp.weixin.qq.com/s/VL0Buz0ya_LZ1AH32MJ82Q)
+- [2020 年的算法，降温之后会更好](https://mp.weixin.qq.com/s/a0aaopoQ7oqgrDG8wLnBOg) 
+
+扫码订阅公众号：
+
+<div align="center"><img src="images/gongzhonghao.png" height="160"></div>
 
 
 ## 参考文献
