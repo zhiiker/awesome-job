@@ -89,6 +89,17 @@ NLP 工具包一般包含了常见的文本处理功能，例如文本分词、�
 - [SpaCy](https://spacy.io/) 具有工业级强度的Python NLP工具包；
 - [Gensim](https://radimrehurek.com/gensim/) 从文档中自动提取语义主题，集成了多种文本表示方法；
 
+#### 有哪些常用的 Linux 文本处理命令
+
+1. more/less 分页查看文件内容：`more filename`
+2. cat 展现整个文件的内容：`cat filename`
+3. iconv 转换文本编码格式：`iconv -f utf-8 -t utf-16 inputfile -o outputfile`
+4. sort 文本内容排序：
+5. uniq 文本去重：`uniq filename`
+6. join 文本连接：`join filename1 filename2`
+7. grep 文本查找：`grep '你好' filename`
+
+
 
 ## 版权问题
 
