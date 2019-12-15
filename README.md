@@ -13,6 +13,7 @@
          * [实用工具](#实用工具)
             * [常见的分词工具包有哪些](#常见的分词工具包有哪些)
             * [有哪些好用的 NLP 工具包](#有哪些好用的-nlp-工具包)
+            * [有哪些常用的 Linux 文本处理命令](#有哪些常用的-linux-文本处理命令)
       * [版权问题](#版权问题)
       * [关于作者](#关于作者)
       * [参考文献](#参考文献)
@@ -94,7 +95,7 @@ NLP 工具包一般包含了常见的文本处理功能，例如文本分词、�
 1. more/less 分页查看文件内容：`more filename`
 2. cat 展现整个文件的内容：`cat filename`
 3. iconv 转换文本编码格式：`iconv -f utf-8 -t utf-16 inputfile -o outputfile`
-4. sort 文本内容排序：
+4. sort 文本内容排序：`sort filename`
 5. uniq 文本去重：`uniq filename`
 6. join 文本连接：`join filename1 filename2`
 7. grep 文本查找：`grep '你好' filename`
