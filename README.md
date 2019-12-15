@@ -99,6 +99,8 @@ NLP 工具包一般包含了常见的文本处理功能，例如文本分词、�
 5. uniq 文本去重：`uniq filename`
 6. join 文本连接：`join filename1 filename2`
 7. grep 文本查找：`grep '你好' filename`
+8. sed 操作文本，增删改，删除文件的，例如删除文件的第 2 行：`sed '2,2d' filename`
+9. awk awk命令主要是将文件通过分隔符拆成列来处理，还能通过条件判断对不同的行进行不同的处理，甚至还可以进行数值计算。例如，输出第一列和第三列，分隔符为":"：`cat /etc/passwd|awk -F ':' '{print $1 "\t" $3}' `
 
 
 
