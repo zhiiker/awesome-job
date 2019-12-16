@@ -169,9 +169,3 @@ NLP 工具包一般包含了常见的文本处理功能，例如文本分词、�
 
 扫码关注公众号，发送 **nlp**，即可下载本项目的 pdf 版本。
 <div><img src="images/gongzhonghao.png" height="150"></div>
-
-
-## 参考文献
-
-- [维基百科](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86)
-- [初入 NLP 领域的一些小建议](https://zhuanlan.zhihu.com/p/59184256)
