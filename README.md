@@ -21,9 +21,9 @@
             * [萌新小白如何入门 NLP](#萌新小白如何入门-nlp)
             * [如何成为 NLP 算法工程师](#如何成为-nlp-算法工程师)
             * [NLP 算法工程师的日常](#nlp-算法工程师的日常)
+      * [Pdf 下载](#pdf-下载)
       * [版权问题](#版权问题)
       * [关于作者](#关于作者)
-      * [Pdf 下载](#pdf-下载)
 
 
 ## 速问速答
@@ -151,6 +151,11 @@ NLP 工具包一般包含了常见的文本处理功能，例如文本分词、�
 - 总结流程，梳理通用工具，力求经验复用
 
 
+## Pdf 下载
+
+扫码关注公众号，发送 **nlp**，即可下载本项目的 pdf 版本。
+<div><img src="images/gongzhonghao.png" height="150"></div>
+
 ## 版权问题
 
 未经授权，禁止转载，翻版必究。
@@ -163,8 +168,3 @@ NLP 工具包一般包含了常见的文本处理功能，例如文本分词、�
 - [读研，竞赛，与实习](https://mp.weixin.qq.com/s/7Uoz1L3SbXPRkCtJCYzVQg) 
 - [如何科学的打开 Leetcode](https://mp.weixin.qq.com/s/VL0Buz0ya_LZ1AH32MJ82Q)
 - [2020 年的算法，降温之后会更好](https://mp.weixin.qq.com/s/a0aaopoQ7oqgrDG8wLnBOg) 
-
-## Pdf 下载
-
-扫码关注公众号，发送 **nlp**，即可下载本项目的 pdf 版本。
-<div><img src="images/gongzhonghao.png" height="150"></div>
