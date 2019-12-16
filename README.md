@@ -1,5 +1,7 @@
 # Awesome NLP Short Questions
 
+[本项目 Pdf 下载](#pdf-下载)
+
 > 一个问题，一句回答，一张图片，简洁明了的呈现 NLP 世界的轮廓
 
    * [Awesome NLP Short Questions](#awesome-nlp-short-questions)
@@ -21,6 +23,7 @@
             * [NLP 算法工程师的日常](#nlp-算法工程师的日常)
       * [版权问题](#版权问题)
       * [关于作者](#关于作者)
+      * [Pdf 下载](#pdf-下载)
       * [参考文献](#参考文献)
 
 
@@ -162,7 +165,9 @@ NLP 工具包一般包含了常见的文本处理功能，例如文本分词、�
 - [如何科学的打开 Leetcode](https://mp.weixin.qq.com/s/VL0Buz0ya_LZ1AH32MJ82Q)
 - [2020 年的算法，降温之后会更好](https://mp.weixin.qq.com/s/a0aaopoQ7oqgrDG8wLnBOg) 
 
+## Pdf 下载
 
+扫码关注公众号，发送 **nlp**，即可下载本项目的 pdf 版本。
 <div><img src="images/gongzhonghao.png" height="150"></div>
 
 
