@@ -13,6 +13,11 @@
 - [【实习校招】阿里妈妈直通车团队](https://mp.weixin.qq.com/s/e9nzIJC3566uiCSLMx75fg)
 
 
+### 蚂蚁金服
+
+- [【实习校招】蚂蚁金服大数据部部门直推](https://mp.weixin.qq.com/s/tFr2_pBqx9117FYsJ45-KQ)
+
+
 ### 快手
 
 - [快手推荐算法工程师实习岗，校招可转正](docs/2020spring/kuaishou/01.md)
