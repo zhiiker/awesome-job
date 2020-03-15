@@ -10,6 +10,7 @@
 ### 阿里
 
 - [阿里达摩院视觉算法实习岗，校招可转正](docs/2020spring/alibaba/01.md)
+- [【实习校招】阿里妈妈直通车团队](https://mp.weixin.qq.com/s/e9nzIJC3566uiCSLMx75fg)
 
 
 ### 快手
