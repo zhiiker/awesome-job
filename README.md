@@ -9,16 +9,16 @@
 
 ### 阿里
 
-- [001 | 阿里达摩院视觉算法实习岗，校招可转正](docs/2020spring/alibaba/01.md)
+- [阿里达摩院视觉算法实习岗，校招可转正](docs/2020spring/alibaba/01.md)
 
 
 ### 快手
 
-- [002 | 快手推荐算法工程师实习岗，校招可转正](docs/2020spring/kuaishou/01.md)
+- [快手推荐算法工程师实习岗，校招可转正](docs/2020spring/kuaishou/01.md)
 
 ### 美团
 
-- [003 | 美团外卖广告算法社招岗](docs/2020spring/meituan/03.md)
+- [美团外卖广告算法社招岗](docs/2020spring/meituan/03.md)
 
 ### 联系我们
 
