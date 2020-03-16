@@ -80,6 +80,8 @@
 
 ### 联系我们
 
-如果你想加入每日内推微信群，或者在这里发布公司的内推信息，请添加微信 vip_today_go 
+**最新通知**：由于很多同学抱怨说 Github 更新消息，不能第一时间得到通知，我们会把所有的内推消息在公众号同步更新，扫码即可关注。
 
-**特殊说明**：本项目内推信息过多，部分内推信息由志愿者投递，可能存在内推人员不愿意分享内推邮箱到项目中，请及时联系我们，会立刻删除。
+<p align="center">
+	<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZVbHwHpkByibh6eaYiceenm5Yw671EBuUo4drVvyR8FDAkuGdJUrgZiaQ3RYKJX1V2mKC5vxLD60ZjV6L3icrTSK1Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="Sample"  width="150" height="">
+</p>
