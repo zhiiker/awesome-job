@@ -9,7 +9,6 @@
 
 ### 阿里
 
-- [阿里达摩院视觉算法实习岗，校招可转正](docs/2020spring/alibaba/01.md)
 - [【实习校招】阿里妈妈直通车团队](https://mp.weixin.qq.com/s/e9nzIJC3566uiCSLMx75fg)
 
 
@@ -20,11 +19,15 @@
 
 ### 快手
 
-- [快手推荐算法工程师实习岗，校招可转正](docs/2020spring/kuaishou/01.md)
+- [【实习校招】快手推荐算法工程师内推](https://mp.weixin.qq.com/s/7HifNGr4VADkxAH2YbCbhQ)
 
 ### 美团
 
-- [美团外卖广告算法社招岗](docs/2020spring/meituan/03.md)
+- [【社招内推】​美团外卖广告算法岗位](https://mp.weixin.qq.com/s/Q3bQ4T85JMbBGU6Hc-Qmyw)
+
+### 字节跳动
+
+- [【校招社招】字节跳动春季招聘内推](https://mp.weixin.qq.com/s/DDbunqi6h4jdB8HYdUm74g)
 
 ### 联系我们
 
