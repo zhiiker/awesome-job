@@ -10,12 +10,19 @@
 ### 阿里
 
 - [【实习校招】阿里妈妈直通车团队](https://mp.weixin.qq.com/s/e9nzIJC3566uiCSLMx75fg)
+- [【实习校招】阿里达摩院视觉算法内推](https://mp.weixin.qq.com/s/tFLRSN_cPPQgQHadiQdTvw)
+- [【实习校招】阿里妈妈直通车团队](https://mp.weixin.qq.com/s/e9nzIJC3566uiCSLMx75fg)
+- [【实习校招】阿里钉钉开发和算法内推](https://mp.weixin.qq.com/s/gNrLZcdKejbkV6HOH4eYJw)
 
+### 腾讯
+
+- [【社招内推】腾讯云AI后台工程师](https://mp.weixin.qq.com/s/7rFcu3IJYpiyK2PGxZOBZQ)
 
 ### 蚂蚁金服
 
 - [【实习校招】蚂蚁金服大数据部部门直推](https://mp.weixin.qq.com/s/tFr2_pBqx9117FYsJ45-KQ)
-
+- [【实习校招】蚂蚁金服区块链平台内推](https://mp.weixin.qq.com/s/itgBk6MSr1WLRLzVI1hh8w)
+- [【实习校招】蚂蚁金服分布式数据库暑期实习](https://mp.weixin.qq.com/s/KXL2KHXjQIa_OYdbQ-Lwnw)
 
 ### 快手
 
@@ -28,6 +35,7 @@
 ### 字节跳动
 
 - [【校招社招】字节跳动春季招聘内推](https://mp.weixin.qq.com/s/DDbunqi6h4jdB8HYdUm74g)
+- [【社招内推】抖音广告变现算法工程师](https://mp.weixin.qq.com/s/moqY5ya7zcheTxHB3iZGFA)
 
 ### 联系我们
 
