@@ -57,6 +57,7 @@
 
 - [【校招内推】京东前端开发工程师](https://mp.weixin.qq.com/s/Pe1QKpjCYGwigbvVev8Xhw)
 - [【社招内推】京东商城数据挖掘算法岗位](https://mp.weixin.qq.com/s/0t_8fbjx3-aIyx7sUa_rBw)
+- [【校招内推】京东大数据开发工程师](https://mp.weixin.qq.com/s/ScMu5_kdGG6zRGIGi6vtNw)
 
 
 ### 微软
