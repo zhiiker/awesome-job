@@ -61,14 +61,13 @@
 
 ### 微软
 
-- [【实习内推】微软 AI 算法研究](https://mp.weixin.qq.com/s/GGXo4m4DxmryX2jekytUdw)
-
+- [【实习内推】微软 AI 算法研究](https://mp.weixin.qq.com/s/GGXo4m4DxmryX2jekytUdw)`自然语言处理AI算法研究员|自然语言处理AI算法工程师`
 
 
 
 ### 顺丰
 
-- [【社招内推】顺丰科技视觉算法工程师](https://mp.weixin.qq.com/s/1K4vufmT_Nsm87Dx6II-7w)
+- [【社招内推】顺丰科技视觉算法工程师](https://mp.weixin.qq.com/s/1K4vufmT_Nsm87Dx6II-7w) `计算机视觉算法工程师`
 
 
 ### 商汤
