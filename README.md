@@ -11,10 +11,9 @@
 
 ### 阿里
 
-- [【实习校招】阿里妈妈直通车团队](https://mp.weixin.qq.com/s/e9nzIJC3566uiCSLMx75fg)
 - [【实习校招】阿里达摩院视觉算法内推](https://mp.weixin.qq.com/s/tFLRSN_cPPQgQHadiQdTvw) `CV`
-- [【实习校招】阿里妈妈直通车团队](https://mp.weixin.qq.com/s/e9nzIJC3566uiCSLMx75fg)
-- [【实习校招】阿里钉钉开发和算法内推](https://mp.weixin.qq.com/s/gNrLZcdKejbkV6HOH4eYJw)
+- [【实习校招】阿里妈妈直通车团队](https://mp.weixin.qq.com/s/e9nzIJC3566uiCSLMx75fg) `广告`
+- [【实习校招】阿里钉钉开发和算法内推](https://mp.weixin.qq.com/s/gNrLZcdKejbkV6HOH4eYJw) `JAVA/C++/Android/IOS 开发和音视频算法`
 - [【实习内推】阿里CBU技术部算法实习](https://mp.weixin.qq.com/s/b3uXWTAVej8KiQfXM8HxXg)
 
 ### 腾讯
