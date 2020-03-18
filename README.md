@@ -12,7 +12,7 @@
 ### 阿里
 
 - [【实习校招】阿里达摩院视觉算法内推](https://mp.weixin.qq.com/s/tFLRSN_cPPQgQHadiQdTvw) `CV`
-- [【实习校招】阿里妈妈直通车团队](https://mp.weixin.qq.com/s/e9nzIJC3566uiCSLMx75fg) `广告`
+- [【实习校招】阿里妈妈直通车团队](https://mp.weixin.qq.com/s/e9nzIJC3566uiCSLMx75fg) 
 - [【实习校招】阿里钉钉开发和算法内推](https://mp.weixin.qq.com/s/gNrLZcdKejbkV6HOH4eYJw) `JAVA/C++/Android/IOS 开发和音视频算法`
 - [【实习内推】阿里CBU技术部算法实习](https://mp.weixin.qq.com/s/b3uXWTAVej8KiQfXM8HxXg)
 
@@ -73,7 +73,7 @@
 
 ### 商汤
 
-- [【实习/校招】商汤科技计算机视觉岗](https://mp.weixin.qq.com/s/39H4v7GWnZ2PTjU9N7pF5w)
+- [【实习/校招】商汤科技计算机视觉岗](https://mp.weixin.qq.com/s/39H4v7GWnZ2PTjU9N7pF5w) `计算机视觉算法实习生|3D视觉/三维重建/SLAM算法实习生`
 
 
 
