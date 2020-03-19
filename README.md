@@ -15,11 +15,13 @@
 - [【实习校招】阿里妈妈直通车团队](https://mp.weixin.qq.com/s/e9nzIJC3566uiCSLMx75fg) 
 - [【实习校招】阿里钉钉开发和算法内推](https://mp.weixin.qq.com/s/gNrLZcdKejbkV6HOH4eYJw) `JAVA/C++/Android/IOS 开发和音视频算法`
 - [【实习内推】阿里CBU技术部算法实习](https://mp.weixin.qq.com/s/b3uXWTAVej8KiQfXM8HxXg)
+- [【校招内推】阿里巴巴业务平台事业部知识图谱、决策智能招聘](https://mp.weixin.qq.com/s/yJQZI-LyGLNJSfRCl_vvRg)
 
 ### 腾讯
 
 - [【社招内推】腾讯云AI后台工程师](https://mp.weixin.qq.com/s/7rFcu3IJYpiyK2PGxZOBZQ)
 - [【社招内推】微信后端算法工程师](https://mp.weixin.qq.com/s/l6IUiREcESVdmpp8mD2Ojg)
+- [【校招社招】微信推荐算法工程师，视频号项目](https://mp.weixin.qq.com/s/nnLpbVVf4HJdFP_ERk8BdQ)
 
 ### 百度
 
@@ -33,6 +35,7 @@
 - [【实习校招】蚂蚁金服区块链平台内推](https://mp.weixin.qq.com/s/itgBk6MSr1WLRLzVI1hh8w)
 - [【实习校招】蚂蚁金服分布式数据库暑期实习](https://mp.weixin.qq.com/s/KXL2KHXjQIa_OYdbQ-Lwnw)
 - [【社招内推】蚂蚁金服算法](https://mp.weixin.qq.com/s/BMpwNQEhVqaJpmdVg5YZ7A)
+- [【实习校招】蚂蚁金服智能服务部算法、开发实习生内推](https://mp.weixin.qq.com/s/rR6Dihc_CbKR-0rp20_Ijw)
 
 ### 快手
 
