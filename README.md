@@ -22,6 +22,7 @@
 - [【社招内推】腾讯云AI后台工程师](https://mp.weixin.qq.com/s/7rFcu3IJYpiyK2PGxZOBZQ)
 - [【社招内推】微信后端算法工程师](https://mp.weixin.qq.com/s/l6IUiREcESVdmpp8mD2Ojg)
 - [【校招社招】微信推荐算法工程师，视频号项目](https://mp.weixin.qq.com/s/nnLpbVVf4HJdFP_ERk8BdQ)
+- [【实习内推】腾讯产品暑期实习招聘](https://mp.weixin.qq.com/s/Dnu4Z5WRw6TBYMGMfZYBvg)
 
 ### 百度
 
@@ -45,10 +46,10 @@
 
 ### 美团
 
-- [【社招内推】​美团外卖广告算法岗位](https://mp.weixin.qq.com/s/Q3bQ4T85JMbBGU6Hc-Qmyw)
+- [【社招内推】美团外卖广告算法岗位](https://mp.weixin.qq.com/s/Q3bQ4T85JMbBGU6Hc-Qmyw)
 - [【社招内推】美团外卖算法，远程面试](https://mp.weixin.qq.com/s/Uj3l1i7wmHIzdWbvlvZrSQ)
-- [【【社招内推】美团C++/大数据/算法等广告业务工程师】](https://mp.weixin.qq.com/s/_T3eedYOK9D0jq6H2jPd5g)
-- [【实习内推】腾讯产品暑期实习招聘](https://mp.weixin.qq.com/s/Dnu4Z5WRw6TBYMGMfZYBvg)
+- [【社招内推】美团C++/大数据/算法等广告业务工程师](https://mp.weixin.qq.com/s/_T3eedYOK9D0jq6H2jPd5g)
+
 
 ### 字节跳动
 
