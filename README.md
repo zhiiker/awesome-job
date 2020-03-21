@@ -57,6 +57,7 @@
 - [【社招内推】抖音广告变现算法工程师](https://mp.weixin.qq.com/s/moqY5ya7zcheTxHB3iZGFA)
 - [【实习/社招】字节跳动数据挖掘算法内推](https://mp.weixin.qq.com/s/FSsZOmDv32OZ2lJ1DJ1v0w)
 - [【实习内推】字节跳动计算机视觉算法实习生](https://mp.weixin.qq.com/s/crTtBdHljbjPo8Co2kbEvg)
+- [【社招内推】字节跳动AILab人脸算法技术岗](0004.md)
 
 ### 京东
 
