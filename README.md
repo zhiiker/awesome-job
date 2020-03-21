@@ -4,7 +4,9 @@
 
 **更新频率**：争取日更，如有拖延，请及时私信提醒我。
 
-**快速检索**：可以通过 `ctrl f` 快速检索意向岗位，关键词：算法|视觉|前端|后端|开发|测试|产品|大数据|数据库 等等...
+<p align="center">
+	<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZVbHwHpkBy972tCsO5orBrGtsLKw4mzmElEgdSO34lwKKrfwTO1RCNLGo4FlqWPh3BdlE5YibRBy60TWke1axnA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="Sample"  width="150" height="">
+</p>
 
 
 ## 2020 春季内推
@@ -95,9 +97,8 @@
 - 如果你想加入内推群，每天获取最新内推信息，请备注「内推」；
 - 如果你想投稿内推信息，帮助团队招人，请备注「招人」。
 
-
 **最新通知**：由于很多同学抱怨说 Github 更新消息，不能第一时间得到通知，我们会把所有的内推消息在公众号同步更新，扫码即可关注。
 
 <p align="center">
-	<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZVbHwHpkByibh6eaYiceenm5Yw671EBuUo4drVvyR8FDAkuGdJUrgZiaQ3RYKJX1V2mKC5vxLD60ZjV6L3icrTSK1Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="Sample"  width="150" height="">
+	<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZVbHwHpkBy972tCsO5orBrGtsLKw4mzmElEgdSO34lwKKrfwTO1RCNLGo4FlqWPh3BdlE5YibRBy60TWke1axnA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="Sample"  width="150" height="">
 </p>
