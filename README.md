@@ -15,6 +15,7 @@
 - [【实习内推】阿里CBU技术部算法实习](https://mp.weixin.qq.com/s/b3uXWTAVej8KiQfXM8HxXg)
 - [【校招内推】阿里巴巴业务平台事业部知识图谱、决策智能招聘](https://mp.weixin.qq.com/s/yJQZI-LyGLNJSfRCl_vvRg)
 - [【实习校招】阿里云数据库产品事业部实习内推，有转正机会](jobs/0001.md)
+- [【实习内推】阿里达摩院Java研发实习生](jobs/0003.md)
 
 ### 腾讯
 
