@@ -16,6 +16,7 @@
 - [【实习校招】阿里钉钉开发和算法内推](https://mp.weixin.qq.com/s/gNrLZcdKejbkV6HOH4eYJw) `JAVA/C++/Android/IOS 开发和音视频算法`
 - [【实习内推】阿里CBU技术部算法实习](https://mp.weixin.qq.com/s/b3uXWTAVej8KiQfXM8HxXg)
 - [【校招内推】阿里巴巴业务平台事业部知识图谱、决策智能招聘](https://mp.weixin.qq.com/s/yJQZI-LyGLNJSfRCl_vvRg)
+- [【实习校招】阿里云数据库产品事业部实习内推，有转正机会](jobs/0001.md)
 
 ### 腾讯
 
