@@ -4,10 +4,6 @@
 
 **更新频率**：争取日更，如有拖延，请及时私信提醒我。
 
-<p align="center">
-	<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZVbHwHpkBy972tCsO5orBrGtsLKw4mzmElEgdSO34lwKKrfwTO1RCNLGo4FlqWPh3BdlE5YibRBy60TWke1axnA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="Sample"  width="150" height="">
-</p>
-
 
 ## 2020 春季内推
 
