@@ -69,7 +69,7 @@
 ### 微软
 
 - [【实习内推】微软 AI 算法研究](https://mp.weixin.qq.com/s/GGXo4m4DxmryX2jekytUdw)`自然语言处理AI算法研究员|自然语言处理AI算法工程师`
-- [【实习内推】微软亚洲研究院MSRA计算机视觉实习](docs/0005.md)
+- [【实习内推】微软亚洲研究院MSRA计算机视觉实习](jobs/0005.md)
 
 
 
