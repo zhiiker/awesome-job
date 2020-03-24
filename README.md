@@ -12,6 +12,9 @@
   - [interview](https://github.com/hadyang/interview)  Java面试知识整理
   - [Java-Interview](https://github.com/gzc426/Java-Interview) Java 面试必会
   - [JavaFamily](https://github.com/AobingJava/JavaFamily) 互联网一线大厂面试+学习指南
+- C/C++
+  - [interview](https://github.com/huihut/interview) C/C++ 技术面试基础知识总结
+  - [Coding-Interviews](https://github.com/ZYZMZM/Coding-Interviews) 剑指Offer算法面试题目C++实现
 - Go
   - [interview-go](https://github.com/lifei6671/interview-go) golang面试题集合
 - Python
