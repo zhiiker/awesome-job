@@ -1,6 +1,6 @@
 本项目整理程序员面试时需要的基础知识、面试经验，每日更新国内互联网企业的内推信息。
 
-## 编程语言和面试知识
+## 编程知识
 
 - Java
   - [awesome-java](https://github.com/akullpp/awesome-java) Java编程语言的框架、库和软件列表。
@@ -12,6 +12,11 @@
   - [interview_python](https://github.com/taizilongxu/interview_python) Python面试题库
 - PHP
   - [PHP-Interview-QA](https://github.com/colinlet/PHP-Interview-QA) PHP面试问答 
+- 数据结构
+  - [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) 排序算法的多语言实现
+- 机器学习
+  - [MachineLearning_Python](https://github.com/lawlite19/MachineLearning_Python) 机器学习算法python实现
+  - [DataMiningAlgorithm ](https://github.com/linyiqun/DataMiningAlgorithm)数据挖掘18大算法实现以及其他相关经典DM算法
 
 
 
