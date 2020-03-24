@@ -13,8 +13,8 @@
 ### 基础知识
 
 - Java
-  - [awesome-java](https://github.com/akullpp/awesome-java) Java编程语言的框架、库和软件列表。
-  - [Java 学习资源](https://github.com/jobbole/awesome-java-cn)  Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等
+  - [awesome-java](https://github.com/akullpp/awesome-java) Java编程语言的框架、库和软件列表
+  - [Java 学习资源](https://github.com/jobbole/awesome-java-cn)  Java资源大全中文版
   - [interview](https://github.com/hadyang/interview)  Java面试知识整理
   - [Java-Interview](https://github.com/gzc426/Java-Interview) Java 面试必会
   - [JavaFamily](https://github.com/AobingJava/JavaFamily) 互联网一线大厂面试+学习指南
