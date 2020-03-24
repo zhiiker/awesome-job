@@ -1,11 +1,44 @@
-**项目愿景**：建立起求职者和互联网公司员工的直接内推途径，告别 HR 低效联系。
-
-**信息来源**：25位互联网公司朋友组成的内推联盟；内部网站的内推信息；志愿者投递的内推信息。
-
-**更新频率**：争取日更，如有拖延，请及时私信提醒我。
 
 
-## 2020 春季内推
+本项目整理程序员面试时需要的基础知识、面试经验，每日更新国内互联网企业的内推信息。
+
+## 编程语言和面试知识
+
+- Java
+  - [awesome-java](https://github.com/akullpp/awesome-java) Java编程语言的框架、库和软件列表。
+  - [Java 学习资源](https://github.com/jobbole/awesome-java-cn)  Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等
+  - [interview](https://github.com/hadyang/interview)  Java 面试知识整理
+- Python
+  - [interview_python](https://github.com/taizilongxu/interview_python) Python 面试题库
+- C/C++
+- Go
+- Scala
+- 其他
+  - [interview](https://github.com/HIT-Alibaba/interview) 笔试面试题目整理
+
+
+
+## 面试经验分享
+
+- 前端
+- 后端
+- 客户端
+- 产品
+- 算法
+
+
+
+## 面试中的小机灵
+
+- [reverse-interview-zh ](https://github.com/yifeikong/reverse-interview-zh)技术面试最后反问面试官的话
+
+
+
+
+
+## 工作内推 | 2020 春季内推
+
+
 
 ### 阿里
 
