@@ -13,14 +13,13 @@
   - [Java-Interview](https://github.com/gzc426/Java-Interview) Java 面试必会
   - [JavaFamily](https://github.com/AobingJava/JavaFamily) 互联网一线大厂面试+学习指南
 - C/C++
+  - [awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn) C++ 资源大全中文版
   - [interview](https://github.com/huihut/interview) C/C++ 技术面试基础知识总结
   - [Coding-Interviews](https://github.com/ZYZMZM/Coding-Interviews) 剑指Offer算法面试题目C++实现
 - Go
   - [interview-go](https://github.com/lifei6671/interview-go) golang面试题集合
 - Python
   - [interview_python](https://github.com/taizilongxu/interview_python) Python面试题库
-- PHP
-  - [PHP-Interview-QA](https://github.com/colinlet/PHP-Interview-QA) PHP面试问答 
 - 数据结构
   - [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) 排序算法的多语言实现
   - [Code](https://github.com/Making-It/Code) 面试高频算法题总结
