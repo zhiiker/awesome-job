@@ -25,6 +25,7 @@
 - 数据结构
   - [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) 排序算法的多语言实现
   - [Code](https://github.com/Making-It/Code) 面试高频算法题总结
+  - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) 用动画的形式呈现解LeetCode题目的思路
 - 机器学习
   - [MachineLearning_Python](https://github.com/lawlite19/MachineLearning_Python) 机器学习算法python实现
   - [DataMiningAlgorithm ](https://github.com/linyiqun/DataMiningAlgorithm)数据挖掘18大算法实现以及其他相关经典DM算法
@@ -36,15 +37,15 @@
 - 前端
   - [Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) 前端开发面试题大收集，前端面试集锦 
 - 后端
-  - [Backend-Interview-Guide](https://github.com/CyC2018/Backend-Interview-Guide) 后端面试进阶指南
-  - [interview](https://github.com/aylei/interview) 后端社招面试经历
+	- [interview](https://github.com/aylei/interview) 后端社招面试经历
   - [Back-End-Developer-Interview-Questions](https://github.com/monklof/Back-End-Developer-Interview-Questions) 后端开发面试题
+  - [Backend-Interview-Guide](https://github.com/CyC2018/Backend-Interview-Guide) 后端面试进阶指南
 - 客户端
   - [AndroidReview](https://github.com/envyfan/AndroidReview) Adnroid面试复习
-- 产品
 - 算法
   - [AIinterview](https://github.com/PPshrimpGo/AIinterview) 算法工程师面试题整理
   - [NLPer-Interview](https://github.com/songyingxin/NLPer-Interview) 记录 NLP 算法工程师相关的面试题
+  - [Awesome-algorithm-interview](https://github.com/lcylmhlcy/Awesome-algorithm-interview) 算法工程师(人工智能CV方向)面试问题及相关资料
 
 
 
