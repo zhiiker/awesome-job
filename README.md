@@ -9,6 +9,7 @@
 
 ### 阿里
 
+- [【校招内推】阿里妈妈广告/推荐/搜索算法工程师](jobs/0007.md)
 - [【实习校招】阿里达摩院视觉算法内推](https://mp.weixin.qq.com/s/tFLRSN_cPPQgQHadiQdTvw) `CV`
 - [【实习校招】阿里妈妈直通车团队](https://mp.weixin.qq.com/s/e9nzIJC3566uiCSLMx75fg) 
 - [【实习校招】阿里钉钉开发和算法内推](https://mp.weixin.qq.com/s/gNrLZcdKejbkV6HOH4eYJw) `JAVA/C++/Android/IOS 开发和音视频算法`
@@ -58,6 +59,7 @@
 - [【实习/社招】字节跳动数据挖掘算法内推](https://mp.weixin.qq.com/s/FSsZOmDv32OZ2lJ1DJ1v0w)
 - [【实习内推】字节跳动计算机视觉算法实习生](https://mp.weixin.qq.com/s/crTtBdHljbjPo8Co2kbEvg)
 - [【社招内推】字节跳动AILab人脸算法技术岗](jobs/0004.md)
+- [【实习内推】字节跳动国际化客户端开发/实习](jobs/0006.md)
 
 ### 京东
 
