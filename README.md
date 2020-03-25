@@ -5,17 +5,20 @@
 ### 项目内容
 
 - [面试知识](#面试知识) 
-  - [基础知识](#基础知识)
+  - [基础知识和面试经验](#基础知识和面试经验)
+    
     - [Java](#Java)
     - [C++](#C++)
     - [Go](#Go)
     - [Python](#Python)
     - [数据结构](#数据结构)
     - [机器学习](#机器学习)
-  - [面试经验](#面试经验)
-  	- [前端](#前端)
-  	- [后端](#后端)
-  	- [算法](#算法)
+    
+    - [前端](#前端)
+    - [后端](#后端)
+    - [算法](#算法)
+    - [大数据](#大数据)
+    - [综合](#综合)
   - [面试中的小机灵](#面试中的小机灵)
 - [每日内推](##每日内推)
   - [2020春季内推](#2020春季内推)
@@ -36,7 +39,7 @@
 
 ## 面试知识
 
-### 基础知识
+### 基础知识与面试经验
 
 #### Java
 
@@ -69,14 +72,6 @@
 - [Code](https://github.com/Making-It/Code) 面试高频算法题总结
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) 用动画的形式呈现解LeetCode题目的思路
 
-#### 机器学习
-
-- [MachineLearning_Python](https://github.com/lawlite19/MachineLearning_Python) 机器学习算法python实现
-- [DataMiningAlgorithm ](https://github.com/linyiqun/DataMiningAlgorithm)数据挖掘18大算法实现以及其他相关经典DM算法
-
-
-
-### 面试经验
 
 #### 前端
 
@@ -95,9 +90,26 @@
 
 #### 算法
 
+- [MachineLearning_Python](https://github.com/lawlite19/MachineLearning_Python) 机器学习算法python实现
+- [DataMiningAlgorithm ](https://github.com/linyiqun/DataMiningAlgorithm)数据挖掘18大算法实现以及其他相关经典DM算法
 - [AIinterview](https://github.com/PPshrimpGo/AIinterview) 算法工程师面试题整理
 - [NLPer-Interview](https://github.com/songyingxin/NLPer-Interview) 记录 NLP 算法工程师相关的面试题
 - [Awesome-algorithm-interview](https://github.com/lcylmhlcy/Awesome-algorithm-interview) 算法工程师(人工智能CV方向)面试问题及相关资料
+
+#### 大数据
+
+- [BigData-Notes](https://github.com/heibaiying/BigData-Notes) 大数据入门指南 
+- [Big-Data-Resources](https://github.com/weiweifan/Big-Data-Resources) 大数据/数据挖掘/推荐系统/机器学习相关资源
+- [BigData](https://github.com/sunnyandgood/BigData) 大数据学习笔记
+
+
+- [BigDataIE](https://github.com/WadeStack/BigDataIE) 大数据面经
+- [God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData) 大数据面试题
+
+#### 综合
+
+- [2019-Autumn-recruitment-experience](https://github.com/zslomo/2019-Autumn-recruitment-experience) 2019届秋招面经集合
+- [tips_for_interview](https://github.com/conanhujinming/tips_for_interview) 自学CS找工作经验分享
 
 ### 面试中的小机灵
 
