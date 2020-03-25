@@ -7,7 +7,7 @@
 - [面试知识](#面试知识) 
   - [基础知识](#基础知识)
     - [Java](#Java)
-    - [C/C++](#C/C++)
+    - [C++](#C++)
     - [Go](#Go)
     - [Python](#Python)
     - [数据结构](#数据结构)
@@ -46,7 +46,7 @@
 - [JavaFamily](https://github.com/AobingJava/JavaFamily) 互联网一线大厂面试+学习指南
 - [Java-Interview](https://github.com/xbox1994/Java-Interview) 高级Java后台开发面试指南
 
-#### C/C++
+#### C++
 
 - [awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn) C++ 资源大全中文版
 - [interview](https://github.com/huihut/interview) C/C++ 技术面试基础知识总结
