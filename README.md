@@ -209,8 +209,8 @@
 
 我是某大厂的算法工程师，前 NLP 冠军选手，经常更新内推文章和技术思考到公众号上，欢迎扫码围观。
 
-<p align="center">
-<img src="https://img-blog.csdnimg.cn/2020032513575821.png" alt="Sample"  width="888" height="">
+<p align="left">
+<img src="https://img-blog.csdnimg.cn/2020032513575821.png" alt="Sample"  width="666" height="">
 </p>
 
 
