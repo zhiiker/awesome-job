@@ -161,8 +161,6 @@
 
 ### 联系我们
 
-[Github 开源内推项目地址](https://github.com/Dikea/DayDayJob)
-
 满足以下任一情况，都可以添加微信 vip_today_go 联系我们：
 
 - 如果你想加入内推群，每天获取最新内推信息，请备注**内推**；
