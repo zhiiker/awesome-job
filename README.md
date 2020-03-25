@@ -99,8 +99,6 @@
 - [BigData-Notes](https://github.com/heibaiying/BigData-Notes) 大数据入门指南 
 - [Big-Data-Resources](https://github.com/weiweifan/Big-Data-Resources) 大数据/数据挖掘/推荐系统/机器学习相关资源
 - [BigData](https://github.com/sunnyandgood/BigData) 大数据学习笔记
-
-
 - [BigDataIE](https://github.com/WadeStack/BigDataIE) 大数据面经
 - [God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData) 大数据面试题
 
