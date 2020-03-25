@@ -21,6 +21,7 @@
   - [interview](https://github.com/hadyang/interview)  Java面试知识整理
   - [Java-Interview](https://github.com/gzc426/Java-Interview) Java 面试必会
   - [JavaFamily](https://github.com/AobingJava/JavaFamily) 互联网一线大厂面试+学习指南
+  - [Java-Interview](https://github.com/xbox1994/Java-Interview) 高级Java后台开发面试指南
 - C/C++
   - [awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn) C++ 资源大全中文版
   - [interview](https://github.com/huihut/interview) C/C++ 技术面试基础知识总结
@@ -29,6 +30,8 @@
   - [interview-go](https://github.com/lifei6671/interview-go) golang面试题集合
 - Python
   - [interview_python](https://github.com/taizilongxu/interview_python) Python面试题库
+  - [python_interview_question](https://github.com/kenwoodjw/python_interview_question) 关于python的面试题
+  - [Python-Offer](https://github.com/JushuangQiao/Python-Offer) 《剑指Offer》面试题Python实现
 - 数据结构
   - [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) 排序算法的多语言实现
   - [Code](https://github.com/Making-It/Code) 面试高频算法题总结
@@ -50,6 +53,7 @@
 	- [interview](https://github.com/aylei/interview) 后端社招面试经历
   - [Back-End-Developer-Interview-Questions](https://github.com/monklof/Back-End-Developer-Interview-Questions) 后端开发面试题
   - [Backend-Interview-Guide](https://github.com/CyC2018/Backend-Interview-Guide) 后端面试进阶指南
+  - [interview](https://github.com/HIT-Alibaba/interview) 笔试面试知识整理
 - 算法
   - [AIinterview](https://github.com/PPshrimpGo/AIinterview) 算法工程师面试题整理
   - [NLPer-Interview](https://github.com/songyingxin/NLPer-Interview) 记录 NLP 算法工程师相关的面试题
