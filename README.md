@@ -71,15 +71,15 @@
 
 ### 阿里
 
-- [【校招内推】阿里妈妈广告/推荐/搜索算法工程师](jobs/0007.md)
+- [【校招内推】阿里妈妈广告/推荐/搜索算法工程师](jobs/7.md)
 - [【实习校招】阿里达摩院视觉算法内推](https://mp.weixin.qq.com/s/tFLRSN_cPPQgQHadiQdTvw) `CV`
 - [【实习校招】阿里妈妈直通车团队](https://mp.weixin.qq.com/s/e9nzIJC3566uiCSLMx75fg) 
 - [【实习校招】阿里钉钉开发和算法内推](https://mp.weixin.qq.com/s/gNrLZcdKejbkV6HOH4eYJw) `JAVA/C++/Android/IOS 开发和音视频算法`
 - [【实习内推】阿里CBU技术部算法实习](https://mp.weixin.qq.com/s/b3uXWTAVej8KiQfXM8HxXg)
 - [【校招内推】阿里巴巴业务平台事业部知识图谱、决策智能招聘](https://mp.weixin.qq.com/s/yJQZI-LyGLNJSfRCl_vvRg)
-- [【实习校招】阿里云数据库产品事业部实习内推，有转正机会](jobs/0001.md)
-- [【实习内推】阿里达摩院Java研发实习生](jobs/0003.md)
-- [【校招内推】阿里云运营支撑平台Java研发内推](jobs/0008.md)
+- [【实习校招】阿里云数据库产品事业部实习内推，有转正机会](jobs/1.md)
+- [【实习内推】阿里达摩院Java研发实习生](jobs/3.md)
+- [【校招内推】阿里云运营支撑平台Java研发内推](jobs/8.md)
 
 ### 腾讯
 
@@ -121,8 +121,8 @@
 - [【社招内推】抖音广告变现算法工程师](https://mp.weixin.qq.com/s/moqY5ya7zcheTxHB3iZGFA)
 - [【实习/社招】字节跳动数据挖掘算法内推](https://mp.weixin.qq.com/s/FSsZOmDv32OZ2lJ1DJ1v0w)
 - [【实习内推】字节跳动计算机视觉算法实习生](https://mp.weixin.qq.com/s/crTtBdHljbjPo8Co2kbEvg)
-- [【社招内推】字节跳动AILab人脸算法技术岗](jobs/0004.md)
-- [【实习内推】字节跳动国际化客户端开发/实习](jobs/0006.md)
+- [【社招内推】字节跳动AILab人脸算法技术岗](jobs/4.md)
+- [【实习内推】字节跳动国际化客户端开发/实习](jobs/6.md)
 
 ### 京东
 
@@ -134,7 +134,7 @@
 ### 微软
 
 - [【实习内推】微软 AI 算法研究](https://mp.weixin.qq.com/s/GGXo4m4DxmryX2jekytUdw)`自然语言处理AI算法研究员|自然语言处理AI算法工程师`
-- [【实习内推】微软亚洲研究院MSRA计算机视觉实习](jobs/0005.md)
+- [【实习内推】微软亚洲研究院MSRA计算机视觉实习](jobs/5.md)
 
 
 
@@ -151,7 +151,7 @@
 
 ### 360
 
-- [【春招内推】360春招，搜索广告方向，可解决户口](jobs/0002.md)
+- [【春招内推】360春招，搜索广告方向，可解决户口](jobs/2.md)
 
 
 ### 联系我们
