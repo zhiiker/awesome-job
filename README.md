@@ -31,6 +31,7 @@
     - [顺丰](#顺丰)
     - [商汤](#商汤)
     - [360](#360)
+    - [新浪](#新浪)
 - [联系我们](#联系我们)
 
 ## 面试知识
@@ -145,20 +146,19 @@
 - [【社招内推】蚂蚁金服算法](https://mp.weixin.qq.com/s/BMpwNQEhVqaJpmdVg5YZ7A)
 - [【实习校招】蚂蚁金服智能服务部算法、开发实习生内推](https://mp.weixin.qq.com/s/rR6Dihc_CbKR-0rp20_Ijw)
 
-### 快手
+#### 快手
 
 - [【实习校招】快手推荐算法工程师内推](https://mp.weixin.qq.com/s/7HifNGr4VADkxAH2YbCbhQ)
 - [【实习内推】快手Ytech图形算法实习生](https://mp.weixin.qq.com/s/Ytc6ZWXxk8PNIANXq7Q1jA)
 - [【内推】快手推荐排序算法工程师](https://mp.weixin.qq.com/s/21NCf39YjeJTXTTOe4yJSg)
 
-### 美团
+#### 美团
 
 - [【社招内推】美团外卖广告算法岗位](https://mp.weixin.qq.com/s/Q3bQ4T85JMbBGU6Hc-Qmyw)
 - [【社招内推】美团外卖算法，远程面试](https://mp.weixin.qq.com/s/Uj3l1i7wmHIzdWbvlvZrSQ)
 - [【社招内推】美团C++/大数据/算法等广告业务工程师](https://mp.weixin.qq.com/s/_T3eedYOK9D0jq6H2jPd5g)
 
-
-### 字节跳动
+#### 字节跳动
 
 - [【校招社招】字节跳动春季招聘内推](https://mp.weixin.qq.com/s/DDbunqi6h4jdB8HYdUm74g)
 - [【社招内推】抖音广告变现算法工程师](https://mp.weixin.qq.com/s/moqY5ya7zcheTxHB3iZGFA)
@@ -167,34 +167,32 @@
 - [【社招内推】字节跳动AILab人脸算法技术岗](jobs/4.md)
 - [【实习内推】字节跳动国际化客户端开发/实习](jobs/6.md)
 
-### 京东
+#### 京东
 
 - [【校招内推】京东前端开发工程师](https://mp.weixin.qq.com/s/Pe1QKpjCYGwigbvVev8Xhw)
 - [【社招内推】京东商城数据挖掘算法岗位](https://mp.weixin.qq.com/s/0t_8fbjx3-aIyx7sUa_rBw)
 - [【校招内推】京东大数据开发工程师](https://mp.weixin.qq.com/s/ScMu5_kdGG6zRGIGi6vtNw)
 
-
-### 微软
+#### 微软
 
 - [【实习内推】微软 AI 算法研究](https://mp.weixin.qq.com/s/GGXo4m4DxmryX2jekytUdw)`自然语言处理AI算法研究员|自然语言处理AI算法工程师`
 - [【实习内推】微软亚洲研究院MSRA计算机视觉实习](jobs/5.md)
 
-
-
-### 顺丰
+#### 顺丰
 
 - [【社招内推】顺丰科技视觉算法工程师](https://mp.weixin.qq.com/s/1K4vufmT_Nsm87Dx6II-7w) `计算机视觉算法工程师`
 
-
-### 商汤
+#### 商汤
 
 - [【实习/校招】商汤科技计算机视觉岗](https://mp.weixin.qq.com/s/39H4v7GWnZ2PTjU9N7pF5w) `计算机视觉算法实习生|3D视觉/三维重建/SLAM算法实习生`
 
-
-
-### 360
+#### 360
 
 - [【春招内推】360春招，搜索广告方向，可解决户口](jobs/2.md)
+
+#### 新浪
+
+- [ 【社招内推】新浪微博Java后端](jobs/9.md)
 
 
 ### 联系我们
