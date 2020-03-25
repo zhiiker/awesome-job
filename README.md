@@ -139,6 +139,7 @@
 - [【社招内推】微信后端算法工程师](https://mp.weixin.qq.com/s/l6IUiREcESVdmpp8mD2Ojg)
 - [【校招社招】微信推荐算法工程师，视频号项目](https://mp.weixin.qq.com/s/nnLpbVVf4HJdFP_ERk8BdQ)
 - [【实习内推】腾讯产品暑期实习招聘](https://mp.weixin.qq.com/s/Dnu4Z5WRw6TBYMGMfZYBvg)
+- [【实习内推】微信搜索应用部NLP搜索算法](jobs/10.md)
 
 #### 百度
 
@@ -212,8 +213,6 @@
 <p align="left">
 <img src="https://img-blog.csdnimg.cn/2020032513575821.png" alt="Sample"  width="666" height="">
 </p>
-
-
 
 
 [⬆ 返回顶部](#项目内容)
