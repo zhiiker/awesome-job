@@ -1,4 +1,4 @@
-# Awesome Interview CN [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Dikea/awesome-interviews-cn)
+# Awesome Job [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Dikea/awesome-interviews-cn)
 
 本项目整理程序员面试时需要的基础知识、面试经验，每日更新国内互联网企业的内推信息。
 
