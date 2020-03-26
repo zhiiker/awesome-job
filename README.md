@@ -164,6 +164,7 @@
 - [【实习校招】快手推荐算法工程师内推](https://mp.weixin.qq.com/s/7HifNGr4VADkxAH2YbCbhQ)
 - [【实习内推】快手Ytech图形算法实习生](https://mp.weixin.qq.com/s/Ytc6ZWXxk8PNIANXq7Q1jA)
 - [【内推】快手推荐排序算法工程师](https://mp.weixin.qq.com/s/21NCf39YjeJTXTTOe4yJSg)
+- [【社招内推】快手电商Java高级工程师/技术专家/架构师](jobs/13.md)
 
 #### 美团
 
