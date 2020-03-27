@@ -61,6 +61,7 @@
 
 #### Go
 
+- [awesome-go-cn](https://github.com/jobbole/awesome-go-cn) Go 中文版资料
 - [interview-go](https://github.com/lifei6671/interview-go) golang面试题集合
 
 #### Python
