@@ -127,7 +127,7 @@
 建议使用 `ctrl f` 搜索关键词找到相应岗位，候选关键词有：`算法|视觉|NLP|前端|后端|客户端|开发` 等。
 
 #### 阿里
-
+- [【实习校招】阿里巴巴天猫海外技术部Java研发实习生，高转正率](jobs/18.md) `Java`
 - [【校招内推】阿里妈妈广告/推荐/搜索算法工程师](jobs/7.md)
 - [【实习校招】阿里达摩院视觉算法内推](https://mp.weixin.qq.com/s/tFLRSN_cPPQgQHadiQdTvw) `CV`
 - [【实习校招】阿里妈妈直通车团队](https://mp.weixin.qq.com/s/e9nzIJC3566uiCSLMx75fg) 
