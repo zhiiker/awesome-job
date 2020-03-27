@@ -146,6 +146,7 @@
 - [【校招社招】微信推荐算法工程师，视频号项目](https://mp.weixin.qq.com/s/nnLpbVVf4HJdFP_ERk8BdQ)
 - [【实习内推】腾讯产品暑期实习招聘](https://mp.weixin.qq.com/s/Dnu4Z5WRw6TBYMGMfZYBvg)
 - [【实习内推】微信搜索应用部NLP搜索算法](jobs/10.md)
+- [【社招微信】推荐算法工程师（深圳）](jobs/17.md)
 
 #### 百度
 
