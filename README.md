@@ -12,9 +12,9 @@
 
 ||标签|
 |:---:|:---|
-|城市|[上海](https://awesomejob.gitee.io/tags/上海)	[北京](https://awesomejob.gitee.io/tags/北京)	[深圳](https://awesomejob.gitee.io/tags/深圳)	[杭州](https://awesomejob.gitee.io/tags/杭州)|
-|方向|[校招](https://awesomejob.gitee.io/series/校招)	[实习](https://awesomejob.gitee.io/series/实习)	[社招](https://awesomejob.gitee.io/series/社招)	[前端](https://awesomejob.gitee.io/categories/前端)	[数据挖掘](https://awesomejob.gitee.io/categories/数据挖掘)	[后端](https://awesomejob.gitee.io/categories/后端)	[算法](https://awesomejob.gitee.io/categories/算法)|
-|公司|[滴滴](https://awesomejob.gitee.io/tags/滴滴)	[阿里巴巴](https://awesomejob.gitee.io/tags/阿里巴巴)	[图森未来](https://awesomejob.gitee.io/tags/图森未来)	[蚂蚁金服](https://awesomejob.gitee.io/tags/蚂蚁金服)	[蚂蚁科技集团](https://awesomejob.gitee.io/tags/蚂蚁科技集团)	[微软亚洲研究院](https://awesomejob.gitee.io/tags/微软亚洲研究院)	[华为技术有限公司](https://awesomejob.gitee.io/tags/华为技术有限公司)	[字节跳动](https://awesomejob.gitee.io/tags/字节跳动)	[百度](https://awesomejob.gitee.io/tags/百度)	[烟台昭阳网络](https://awesomejob.gitee.io/tags/烟台昭阳网络)	[滴滴打车](https://awesomejob.gitee.io/tags/滴滴打车)	[中发展科技公司](https://awesomejob.gitee.io/tags/中发展科技公司)	[滴滴出行](https://awesomejob.gitee.io/tags/滴滴出行)	[快手](https://awesomejob.gitee.io/tags/快手)	[搜狐](https://awesomejob.gitee.io/tags/搜狐)	[灵均投资](https://awesomejob.gitee.io/tags/灵均投资)|
+|城市|[杭州](https://awesomejob.gitee.io/tags/杭州)	[深圳](https://awesomejob.gitee.io/tags/深圳)	[北京](https://awesomejob.gitee.io/tags/北京)	[上海](https://awesomejob.gitee.io/tags/上海)|
+|方向|[校招](https://awesomejob.gitee.io/series/校招)	[社招](https://awesomejob.gitee.io/series/社招)	[实习](https://awesomejob.gitee.io/series/实习)	[数据挖掘](https://awesomejob.gitee.io/categories/数据挖掘)	[算法](https://awesomejob.gitee.io/categories/算法)	[后端](https://awesomejob.gitee.io/categories/后端)	[前端](https://awesomejob.gitee.io/categories/前端)|
+|公司|[阿里巴巴](https://awesomejob.gitee.io/tags/阿里巴巴)	[搜狐](https://awesomejob.gitee.io/tags/搜狐)	[滴滴](https://awesomejob.gitee.io/tags/滴滴)	[微软亚洲研究院](https://awesomejob.gitee.io/tags/微软亚洲研究院)	[图森未来](https://awesomejob.gitee.io/tags/图森未来)	[蚂蚁金服](https://awesomejob.gitee.io/tags/蚂蚁金服)	[中发展科技公司](https://awesomejob.gitee.io/tags/中发展科技公司)	[滴滴出行](https://awesomejob.gitee.io/tags/滴滴出行)	[烟台昭阳网络](https://awesomejob.gitee.io/tags/烟台昭阳网络)	[百度](https://awesomejob.gitee.io/tags/百度)	[字节跳动](https://awesomejob.gitee.io/tags/字节跳动)	[快手](https://awesomejob.gitee.io/tags/快手)	[滴滴打车](https://awesomejob.gitee.io/tags/滴滴打车)	[蚂蚁科技集团](https://awesomejob.gitee.io/tags/蚂蚁科技集团)	[灵均投资](https://awesomejob.gitee.io/tags/灵均投资)	[华为技术有限公司](https://awesomejob.gitee.io/tags/华为技术有限公司)|
 --- 
 
 ### 近期内推 
@@ -41,4 +41,4 @@
 - 限于篇幅，不全部展示了，可以[检索查看更多](https://awesomejob.gitee.io/)哦...
 --- 
 ### 贡献人员
-公子龙，kingsley，光城，autoencoder，小彭
+公子龙，kingsley，光城，autoencoder，峰哥
