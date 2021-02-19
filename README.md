@@ -12,12 +12,22 @@
 
 ||标签|
 |:---:|:---|
-|城市|[北京](https://awesomejob.gitee.io/tags/北京)	[深圳](https://awesomejob.gitee.io/tags/深圳)	[上海](https://awesomejob.gitee.io/tags/上海)	[杭州](https://awesomejob.gitee.io/tags/杭州)|
-|方向|[校招](https://awesomejob.gitee.io/series/校招)	[实习](https://awesomejob.gitee.io/series/实习)	[社招](https://awesomejob.gitee.io/series/社招)	[算法](https://awesomejob.gitee.io/categories/算法)	[后端](https://awesomejob.gitee.io/categories/后端)	[测试](https://awesomejob.gitee.io/categories/测试)	[前端](https://awesomejob.gitee.io/categories/前端)	[数据挖掘](https://awesomejob.gitee.io/categories/数据挖掘)|
-|公司|[中发展科技公司](https://awesomejob.gitee.io/tags/中发展科技公司)	[阿里巴巴](https://awesomejob.gitee.io/tags/阿里巴巴)	[百度](https://awesomejob.gitee.io/tags/百度)	[滴滴打车](https://awesomejob.gitee.io/tags/滴滴打车)	[微软亚洲研究院](https://awesomejob.gitee.io/tags/微软亚洲研究院)	[搜狐](https://awesomejob.gitee.io/tags/搜狐)	[远齐科技](https://awesomejob.gitee.io/tags/远齐科技)	[图森未来](https://awesomejob.gitee.io/tags/图森未来)	[滴滴出行](https://awesomejob.gitee.io/tags/滴滴出行)	[烟台昭阳网络](https://awesomejob.gitee.io/tags/烟台昭阳网络)	[滴滴](https://awesomejob.gitee.io/tags/滴滴)	[蚂蚁金服](https://awesomejob.gitee.io/tags/蚂蚁金服)	[字节跳动](https://awesomejob.gitee.io/tags/字节跳动)	[快手](https://awesomejob.gitee.io/tags/快手)	[华为技术有限公司](https://awesomejob.gitee.io/tags/华为技术有限公司)	[蚂蚁科技集团](https://awesomejob.gitee.io/tags/蚂蚁科技集团)	[灵均投资](https://awesomejob.gitee.io/tags/灵均投资)|
+|城市|[杭州](https://awesomejob.gitee.io/tags/杭州)	[北京](https://awesomejob.gitee.io/tags/北京)	[深圳](https://awesomejob.gitee.io/tags/深圳)	[上海](https://awesomejob.gitee.io/tags/上海)	[广州](https://awesomejob.gitee.io/tags/广州)|
+|方向|[社招](https://awesomejob.gitee.io/series/社招)	[校招](https://awesomejob.gitee.io/series/校招)	[实习](https://awesomejob.gitee.io/series/实习)	[数据挖掘](https://awesomejob.gitee.io/categories/数据挖掘)	[前端](https://awesomejob.gitee.io/categories/前端)	[算法](https://awesomejob.gitee.io/categories/算法)	[安卓](https://awesomejob.gitee.io/categories/安卓)	[后端](https://awesomejob.gitee.io/categories/后端)	[嵌入式](https://awesomejob.gitee.io/categories/嵌入式)	[测试](https://awesomejob.gitee.io/categories/测试)|
+|公司|[搜狐](https://awesomejob.gitee.io/tags/搜狐)	[远齐科技](https://awesomejob.gitee.io/tags/远齐科技)	[哔哩哔哩](https://awesomejob.gitee.io/tags/哔哩哔哩)	[图森未来](https://awesomejob.gitee.io/tags/图森未来)	[中发展科技公司](https://awesomejob.gitee.io/tags/中发展科技公司)	[百度](https://awesomejob.gitee.io/tags/百度)	[OPPO](https://awesomejob.gitee.io/tags/OPPO)	[vivo(南京)](https://awesomejob.gitee.io/tags/vivo(南京))	[蚂蚁金服](https://awesomejob.gitee.io/tags/蚂蚁金服)	[老虎证券](https://awesomejob.gitee.io/tags/老虎证券)	[烟台昭阳网络](https://awesomejob.gitee.io/tags/烟台昭阳网络)	[滴滴](https://awesomejob.gitee.io/tags/滴滴)	[微软亚洲研究院](https://awesomejob.gitee.io/tags/微软亚洲研究院)	[阿里巴巴](https://awesomejob.gitee.io/tags/阿里巴巴)	[ROCK Pi](https://awesomejob.gitee.io/tags/ROCK Pi)	[华为技术有限公司](https://awesomejob.gitee.io/tags/华为技术有限公司)	[字节跳动](https://awesomejob.gitee.io/tags/字节跳动)	[灵均投资](https://awesomejob.gitee.io/tags/灵均投资)	[快手](https://awesomejob.gitee.io/tags/快手)	[蚂蚁科技集团](https://awesomejob.gitee.io/tags/蚂蚁科技集团)	[滴滴出行](https://awesomejob.gitee.io/tags/滴滴出行)	[滴滴打车](https://awesomejob.gitee.io/tags/滴滴打车)	[腾讯](https://awesomejob.gitee.io/tags/腾讯)	[蚂蚁集团](https://awesomejob.gitee.io/tags/蚂蚁集团)|
 --- 
 
 ### 近期内推 
+- [OPPOJava 开发工程师社招内推](https://awesomejob.gitee.io/posts/jobs/job_39)
+- [OPPOJava 开发工程师社招内推](https://awesomejob.gitee.io/posts/jobs/job_38)
+- [老虎证券Java开发工程师实习校招社招内推](https://awesomejob.gitee.io/posts/jobs/job_37)
+- [腾讯后台开发工程师实习校招社招内推](https://awesomejob.gitee.io/posts/jobs/job_36)
+- [蚂蚁集团广告算法/研发工程师实习内推](https://awesomejob.gitee.io/posts/jobs/job_35)
+- [蚂蚁集团广告算法/研发工程师实习内推](https://awesomejob.gitee.io/posts/jobs/job_34)
+- [ROCK Pi嵌入式工程师实习校招社招内推](https://awesomejob.gitee.io/posts/jobs/job_33)
+- [哔哩哔哩资深开发工程/架构师社招内推](https://awesomejob.gitee.io/posts/jobs/job_32)
+- [vivo(南京)Android开发社招内推](https://awesomejob.gitee.io/posts/jobs/job_31)
+- [哔哩哔哩Java开发工程师社招内推](https://awesomejob.gitee.io/posts/jobs/job_30)
 - [远齐科技前端开发工程师实习校招社招内推](https://awesomejob.gitee.io/posts/jobs/job_29)
 - [字节跳动测试研发实习生实习校招内推](https://awesomejob.gitee.io/posts/jobs/job_28)
 - [字节跳动后端开发工程师-飞书实习校招社招内推](https://awesomejob.gitee.io/posts/jobs/job_27)
@@ -27,16 +37,6 @@
 - [百度人脸检测跟踪实习生实习内推](https://awesomejob.gitee.io/posts/jobs/job_23)
 - [字节跳动前端工程师社招内推](https://awesomejob.gitee.io/posts/jobs/job_22)
 - [滴滴打车专家前端工程师社招内推](https://awesomejob.gitee.io/posts/jobs/job_21)
-- [滴滴前端开发工程师实习内推](https://awesomejob.gitee.io/posts/jobs/job_20)
-- [字节跳动前端开发实习内推](https://awesomejob.gitee.io/posts/jobs/job_19)
-- [阿里巴巴前端开发工程师实习内推](https://awesomejob.gitee.io/posts/jobs/job_18)
-- [阿里巴巴前端开发工程师实习内推](https://awesomejob.gitee.io/posts/jobs/job_17)
-- [搜狐java开发工程师社招内推](https://awesomejob.gitee.io/posts/jobs/job_16)
-- [快手基础平台研发工程师社招内推](https://awesomejob.gitee.io/posts/jobs/job_15)
-- [字节跳动高级大数据开发工程师社招内推](https://awesomejob.gitee.io/posts/jobs/job_14)
-- [字节跳动数据挖掘工程师社招内推](https://awesomejob.gitee.io/posts/jobs/job_13)
-- [字节跳动算法工程师社招内推](https://awesomejob.gitee.io/posts/jobs/job_12)
-- [字节跳动后台研发工程师社招内推](https://awesomejob.gitee.io/posts/jobs/job_11)
 - 限于篇幅，不全部展示了，可以[检索查看更多](https://awesomejob.gitee.io/)哦...
 --- 
 ### 贡献人员
