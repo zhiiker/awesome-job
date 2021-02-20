@@ -1,5 +1,3 @@
-## 面试知识
-
 ### 基础知识与面试经验
 
 #### Java
@@ -69,7 +67,4 @@
 
 - [2019-Autumn-recruitment-experience](https://github.com/zslomo/2019-Autumn-recruitment-experience) 2019届秋招面经集合
 - [tips_for_interview](https://github.com/conanhujinming/tips_for_interview) 自学CS找工作经验分享
-
-### 面试中的小机灵
-
 - [reverse-interview-zh ](https://github.com/yifeikong/reverse-interview-zh)技术面试最后反问面试官的话
