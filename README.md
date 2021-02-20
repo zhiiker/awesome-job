@@ -12,9 +12,9 @@
 
 ||标签|
 |:---:|:---|
-|城市|[成都](https://awesomejob.gitee.io/tags/成都)	[北京](https://awesomejob.gitee.io/tags/北京)	[广州](https://awesomejob.gitee.io/tags/广州)	[深圳](https://awesomejob.gitee.io/tags/深圳)	[上海](https://awesomejob.gitee.io/tags/上海)	[杭州](https://awesomejob.gitee.io/tags/杭州)|
-|方向|[社招](https://awesomejob.gitee.io/series/社招)	[校招](https://awesomejob.gitee.io/series/校招)	[实习](https://awesomejob.gitee.io/series/实习)	[安卓](https://awesomejob.gitee.io/categories/安卓)	[前端](https://awesomejob.gitee.io/categories/前端)	[嵌入式](https://awesomejob.gitee.io/categories/嵌入式)	[后端](https://awesomejob.gitee.io/categories/后端)	[算法](https://awesomejob.gitee.io/categories/算法)	[测试](https://awesomejob.gitee.io/categories/测试)	[数据库SRE](https://awesomejob.gitee.io/categories/数据库sre)	[数据挖掘](https://awesomejob.gitee.io/categories/数据挖掘)|
-|公司|[老虎证券](https://awesomejob.gitee.io/tags/老虎证券)	[阿里](https://awesomejob.gitee.io/tags/阿里)	[滴滴打车](https://awesomejob.gitee.io/tags/滴滴打车)	[灵均投资](https://awesomejob.gitee.io/tags/灵均投资)	[OPPO](https://awesomejob.gitee.io/tags/oppo)	[蚂蚁科技集团](https://awesomejob.gitee.io/tags/蚂蚁科技集团)	[vivo(南京)](https://awesomejob.gitee.io/tags/vivo(南京))	[远齐科技](https://awesomejob.gitee.io/tags/远齐科技)	[ROCK Pi](https://awesomejob.gitee.io/tags/rock-pi)	[搜狐](https://awesomejob.gitee.io/tags/搜狐)	[阿里巴巴](https://awesomejob.gitee.io/tags/阿里巴巴)	[中发展科技公司](https://awesomejob.gitee.io/tags/中发展科技公司)	[滴滴出行](https://awesomejob.gitee.io/tags/滴滴出行)	[字节跳动](https://awesomejob.gitee.io/tags/字节跳动)	[华为技术有限公司](https://awesomejob.gitee.io/tags/华为技术有限公司)	[微软亚洲研究院](https://awesomejob.gitee.io/tags/微软亚洲研究院)	[滴滴](https://awesomejob.gitee.io/tags/滴滴)	[哔哩哔哩](https://awesomejob.gitee.io/tags/哔哩哔哩)	[快手](https://awesomejob.gitee.io/tags/快手)	[百度](https://awesomejob.gitee.io/tags/百度)	[烟台昭阳网络](https://awesomejob.gitee.io/tags/烟台昭阳网络)	[蚂蚁金服](https://awesomejob.gitee.io/tags/蚂蚁金服)	[58同城](https://awesomejob.gitee.io/tags/58同城)	[腾讯](https://awesomejob.gitee.io/tags/腾讯)	[图森未来](https://awesomejob.gitee.io/tags/图森未来)	[蚂蚁集团](https://awesomejob.gitee.io/tags/蚂蚁集团)|
+|城市|[深圳](https://awesomejob.gitee.io/tags/深圳)	[成都](https://awesomejob.gitee.io/tags/成都)	[广州](https://awesomejob.gitee.io/tags/广州)	[北京](https://awesomejob.gitee.io/tags/北京)	[上海](https://awesomejob.gitee.io/tags/上海)	[杭州](https://awesomejob.gitee.io/tags/杭州)|
+|方向|[校招](https://awesomejob.gitee.io/series/校招)	[实习](https://awesomejob.gitee.io/series/实习)	[社招](https://awesomejob.gitee.io/series/社招)	[测试](https://awesomejob.gitee.io/categories/测试)	[后端](https://awesomejob.gitee.io/categories/后端)	[安卓](https://awesomejob.gitee.io/categories/安卓)	[前端](https://awesomejob.gitee.io/categories/前端)	[算法](https://awesomejob.gitee.io/categories/算法)	[嵌入式](https://awesomejob.gitee.io/categories/嵌入式)	[数据库SRE](https://awesomejob.gitee.io/categories/数据库sre)	[数据挖掘](https://awesomejob.gitee.io/categories/数据挖掘)|
+|公司|[字节跳动](https://awesomejob.gitee.io/tags/字节跳动)	[ROCK Pi](https://awesomejob.gitee.io/tags/rock-pi)	[滴滴出行](https://awesomejob.gitee.io/tags/滴滴出行)	[微软亚洲研究院](https://awesomejob.gitee.io/tags/微软亚洲研究院)	[远齐科技](https://awesomejob.gitee.io/tags/远齐科技)	[58同城](https://awesomejob.gitee.io/tags/58同城)	[烟台昭阳网络](https://awesomejob.gitee.io/tags/烟台昭阳网络)	[蚂蚁金服](https://awesomejob.gitee.io/tags/蚂蚁金服)	[阿里](https://awesomejob.gitee.io/tags/阿里)	[阿里巴巴](https://awesomejob.gitee.io/tags/阿里巴巴)	[滴滴](https://awesomejob.gitee.io/tags/滴滴)	[百度](https://awesomejob.gitee.io/tags/百度)	[蚂蚁科技集团](https://awesomejob.gitee.io/tags/蚂蚁科技集团)	[灵均投资](https://awesomejob.gitee.io/tags/灵均投资)	[图森未来](https://awesomejob.gitee.io/tags/图森未来)	[中发展科技公司](https://awesomejob.gitee.io/tags/中发展科技公司)	[搜狐](https://awesomejob.gitee.io/tags/搜狐)	[哔哩哔哩](https://awesomejob.gitee.io/tags/哔哩哔哩)	[腾讯](https://awesomejob.gitee.io/tags/腾讯)	[蚂蚁集团](https://awesomejob.gitee.io/tags/蚂蚁集团)	[华为技术有限公司](https://awesomejob.gitee.io/tags/华为技术有限公司)	[快手](https://awesomejob.gitee.io/tags/快手)	[vivo(南京)](https://awesomejob.gitee.io/tags/vivo(南京))	[OPPO](https://awesomejob.gitee.io/tags/oppo)	[老虎证券](https://awesomejob.gitee.io/tags/老虎证券)	[滴滴打车](https://awesomejob.gitee.io/tags/滴滴打车)|
 --- 
 
 ### 近期内推 
@@ -49,10 +49,6 @@
 - [字节跳动后台研发工程师社招内推](https://awesomejob.gitee.io/posts/jobs/job_11)
 - 限于篇幅，不全部展示了，可以[检索查看更多](https://awesomejob.gitee.io/)哦...
 --- 
-### 贡献人员
-公子龙，kingsley，光城，autoencoder，峰哥--- 
-
-## 面试知识
 
 ### 基础知识与面试经验
 
@@ -123,8 +119,8 @@
 
 - [2019-Autumn-recruitment-experience](https://github.com/zslomo/2019-Autumn-recruitment-experience) 2019届秋招面经集合
 - [tips_for_interview](https://github.com/conanhujinming/tips_for_interview) 自学CS找工作经验分享
-
-### 面试中的小机灵
-
 - [reverse-interview-zh ](https://github.com/yifeikong/reverse-interview-zh)技术面试最后反问面试官的话
 
+--- 
+### 贡献人员
+公子龙，kingsley，光城，autoencoder，峰哥
