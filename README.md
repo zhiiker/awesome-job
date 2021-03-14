@@ -19,9 +19,9 @@
 
 ||标签|
 |:---:|:---|
-|地点|[https://dikea.github.io/](杭州tags/杭州)  [https://dikea.github.io/](上海tags/上海)  [https://dikea.github.io/](北京tags/北京)  [https://dikea.github.io/](深圳tags/深圳)|
-|方向|[https://dikea.github.io/](社招series/社招)  [https://dikea.github.io/](实习series/实习)  [https://dikea.github.io/](校招series/校招)	[https://dikea.github.io/](数据挖掘categories/数据挖掘)  [https://dikea.github.io/](后端categories/后端)  [https://dikea.github.io/](算法categories/算法)  [https://dikea.github.io/](前端categories/前端)|
-|公司|[https://dikea.github.io/](烟台昭阳网络tags/烟台昭阳网络)  [https://dikea.github.io/](快手tags/快手)  [https://dikea.github.io/](中发展科技tags/中发展科技)  [https://dikea.github.io/](图森未来tags/图森未来)  [https://dikea.github.io/](华为tags/华为)  [https://dikea.github.io/](微软tags/微软)  [https://dikea.github.io/](灵均投资tags/灵均投资)  [https://dikea.github.io/](滴滴tags/滴滴)  [https://dikea.github.io/](蚂蚁tags/蚂蚁)  [https://dikea.github.io/](阿里tags/阿里)  [https://dikea.github.io/](搜狐tags/搜狐)  [https://dikea.github.io/](百度tags/百度)  [https://dikea.github.io/](字节跳动tags/字节跳动)|
+|地点|[深圳](https://dikea.github.io//tags)  [北京](https://dikea.github.io//tags)  [上海](https://dikea.github.io//tags)  [杭州](https://dikea.github.io//tags)|
+|方向|[校招](https://dikea.github.io//series)  [社招](https://dikea.github.io//series)  [实习](https://dikea.github.io//series)	[算法](https://dikea.github.io//categories)  [后端](https://dikea.github.io//categories)  [数据挖掘](https://dikea.github.io//categories)  [前端](https://dikea.github.io//categories)|
+|公司|[百度](https://dikea.github.io//tags)  [阿里](https://dikea.github.io//tags)  [图森未来](https://dikea.github.io//tags)  [烟台昭阳网络](https://dikea.github.io//tags)  [快手](https://dikea.github.io//tags)  [字节跳动](https://dikea.github.io//tags)  [滴滴](https://dikea.github.io//tags)  [中发展科技](https://dikea.github.io//tags)  [灵均投资](https://dikea.github.io//tags)  [搜狐](https://dikea.github.io//tags)  [蚂蚁](https://dikea.github.io//tags)  [华为](https://dikea.github.io//tags)  [微软](https://dikea.github.io//tags)|
 --- 
 
 ### 近期内推 
